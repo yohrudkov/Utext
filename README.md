@@ -35,7 +35,7 @@
 
 ## Introduction
 
-UText is a free GUI application that allows you to create, open, and edit text files on your computer.
+Free GUI application that allows you to create, open, and edit text files on your computer.
 
 <p align="center">
     <img alt="Utext"
